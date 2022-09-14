@@ -1,0 +1,18 @@
+body{
+    font-family: monospace;
+    background-color: #ccc;
+    color: #444;
+}
+ul li{
+    width: 60px;
+}
+li{
+    padding: 5px;
+    width: 600px;
+}
+li:hover{
+    text-decoration:underline;
+    transition: 0.3s;
+    cursor: pointer;
+    background-color: #eee;
+}
